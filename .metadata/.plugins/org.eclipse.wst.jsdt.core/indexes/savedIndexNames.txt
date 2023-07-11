@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\yash.bakal\Desktop\IGT_Exam\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3356788386.index
+2161485240.index
+29579818.index
+2448110761.index
